@@ -11,7 +11,7 @@ body {
 }
 .start{
   width: 200px;
-  margin-bottom: 40px;
+  margin: 200px;
 }
 .start:active{
   background-color: aliceblue;
@@ -26,8 +26,8 @@ body {
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 200px;
-  width: 200px;
+  height: 400px;
+  width: 400px;
   border: 10px solid black;
   border-radius: 20%;
 }
@@ -39,26 +39,26 @@ body {
 
 .red {
   background-image: url(images2/red.jpg);
-  background-size: 200px;
+  background-size: 420px;
   
 }
 
 .green {
   /* background-color: green; */
   background-image: url(images2/green.jpg);
-  background-size: 220px;
+  background-size: 420px;
 }
 
 .blue {
   /* background-color: blue; */
   background-image: url(images2/blue.jpg);
-  background-size: 220px;
+  background-size: 420px;
 }
 
 .yellow {
   /* background-color: yellow; */
   background-image: url(images2/yellow.jpg);
-  background-size: 220px;
+  background-size: 410px;
 }
 
 .pressed {
@@ -66,7 +66,7 @@ body {
   background-color: grey;
 }
 .footer{
-  margin-top: 70px;
+  margin-top: 30A0px;
   font-size: 20px;
   font-family: cursive;
 }
